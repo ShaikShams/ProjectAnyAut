@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='G:\ITElearn Project\AnyautAutomationProject\src\main\java\com\anyaut\automation\AnyautAutomationProject\screenshot\VerifySearchButtonInAddEditPageWithInValidData_02_10_2017_08_14_32.png'> <img src='G:\ITElearn Project\AnyautAutomationProject\src\main\java\com\anyaut\automation\AnyautAutomationProject\screenshot\VerifySearchButtonInAddEditPageWithInValidData_02_10_2017_08_14_32.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="AnyautSuite" duration-ms="105901" started-at="2017-10-03T03:12:47Z" finished-at="2017-10-03T03:14:33Z">
+    <groups>
+    </groups>
+    <test name="AnyautTestCases" duration-ms="105901" started-at="2017-10-03T03:12:47Z" finished-at="2017-10-03T03:14:33Z">
+      <class name="com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData@1ce92674]" name="setUp" is-config="true" duration-ms="59326" started-at="2017-10-02T20:12:47Z" finished-at="2017-10-02T20:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifySearchButtonInAddEditPageWithInValidData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData@1ce92674]" name="VerifySearchButtonInAddEditPageWithInValidData" duration-ms="42320" started-at="2017-10-02T20:13:50Z" data-provider="loginData" finished-at="2017-10-02T20:14:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shaikahmed157@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Orange2020]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Demo14]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[No matching records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='G:\ITElearn Project\AnyautAutomationProject\src\main\java\com\anyaut\automation\AnyautAutomationProject\screenshot\VerifySearchButtonInAddEditPageWithInValidData_02_10_2017_08_14_32.png'> <img src='G:\ITElearn Project\AnyautAutomationProject\src\main\java\com\anyaut\automation\AnyautAutomationProject\screenshot\VerifySearchButtonInAddEditPageWithInValidData_02_10_2017_08_14_32.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySearchButtonInAddEditPageWithInValidData -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData@1ce92674]" name="endTest" is-config="true" duration-ms="896" started-at="2017-10-02T20:14:32Z" finished-at="2017-10-02T20:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData -->
+    </test> <!-- AnyautTestCases -->
+  </suite> <!-- AnyautSuite -->
+</testng-results>

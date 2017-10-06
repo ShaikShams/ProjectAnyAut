@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AnyautSuite">
+	<listeners>
+		<listener
+			class-name="com.anyaut.automation.AnyautAutomationProject.listener.Listener"></listener>
+	</listeners>
+	<test name="AnyautTestCases">
+		<classes>
+			<class
+				name="com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData" />
+		</classes>
+	</test> <!-- AnyautTestCases -->
+</suite> <!-- AnyautSuite -->

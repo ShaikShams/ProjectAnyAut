@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [AnyautSuite]">
+  <listeners>
+    <listener class-name="com.anyaut.automation.AnyautAutomationProject.listener.Listener"/>
+  </listeners>
+  <test name="AnyautTestCases(failed)">
+    <classes>
+      <class name="com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="VerifySearchButtonInAddEditPageWithInValidData" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.anyaut.automation.AnyautAutomationProject.addModulePage.TC_Module_016_VerifySearchButtonInAddEditPageWithInValidData -->
+    </classes>
+  </test> <!-- AnyautTestCases(failed) -->
+</suite> <!-- Failed suite [AnyautSuite] -->
